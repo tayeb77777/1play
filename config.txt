@@ -1,0 +1,6 @@
+﻿token=NTI1NzU3NzM2MzE5ODQ0Mzcx.DwAAOA.Zvgc4Glsj04slBt3CayVuA0VXSI 
+owner=388074664649293836 
+prefix= 1play
+game= !1play
+stayinchannel=true
+songinstatus=true 
